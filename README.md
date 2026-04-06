@@ -1,7 +1,7 @@
 # Employee-Management_AspDotNetCore10-WebAPI_AdoNet_AngularJs_PLSql_Project 
-Summary : C#, Asp Dot Net Core 10, Web API, Ado Net, 
+Summary : C#, ASP.NET Core, Web API, ADO.NET, 
 AngularJS 1.8, 
-Microsoft SQL Server, PL/SQL (T-SQL), Stored Procedures. 
+Microsoft SQL Server, PL/SQL, T-SQL, Stored Procedures. 
 
 Version : 
 - SDK : Microsoft.NET.Sdk (.NET 10.0) 
@@ -21,7 +21,7 @@ DevWithNotes : For Pushing working codes alongside with Comments & Notes. Always
 
 
 # Client : Amber Group : 
-Assignment : Test Project According Requirements ; 
+Assignment : Test Project According Provided Requirements ; 
 Study : Self-Practice, Self-Study ; 
 
 
